@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>1.png</filename>
+	<path>D:\guqin-projects\photo\1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>673</width>
+		<height>892</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>中七勾二</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>152</ymin>
+			<xmax>150</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
